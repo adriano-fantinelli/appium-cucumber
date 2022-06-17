@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven-resources-plugin.version>3.2.0</maven-resources-plugin.version>
         <maven-surefire-plugin.version>2.20</maven-surefire-plugin.version>
-        <appium.version>7.6.0</appium.version>
+        <appium.version>7.4.1</appium.version>
         <allure-cucumber6-jvm.version>2.13.8</allure-cucumber6-jvm.version>
         <cucumber.version>6.9.1</cucumber.version>
         <json.simple.version>1.1.1</json.simple.version>
@@ -65,12 +65,6 @@
             <groupId>org.aspectj</groupId>
             <artifactId>aspectjweaver</artifactId>
             <version>${aspectj.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>io.appium</groupId>
-            <artifactId>java-client</artifactId>
-            <version>7.4.1</version>
-            <scope>test</scope>
         </dependency>
     </dependencies>
 
