@@ -10,7 +10,6 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
-
 public class Utils {
     public static AppiumDriver<MobileElement> driver;
     public static WebDriverWait wait;
