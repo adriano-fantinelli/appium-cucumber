@@ -1,4 +1,4 @@
-# Framework with Appium, Cucumber and Java
+# Mobile test automations with Appium, Cucumber and Java
 
 Framework to use for mobile test automations with Appium, Cucumber and Java.
 
